@@ -1,19 +1,21 @@
 # Marketing Analysis
 Use Power BI to analyze the effectiveness of advertising campaigns
-## Project Overview:
-
-## Dataset Description:
+## 1. Project Overview:
+The purposes of this project are:
+1. Conducting a data-driven analysis of the past 5 months' marketing performance (seasonal trend analysis, performance evaluation of each advertising channel, and marketing spend optimization).
+2. Identifying key trends, successful campaigns, and areas of inefficiency.
+3. Answering the critical business question: "What should we do to enhance the effectiveness of our marketing strategy?"
+## 2. Dataset Description:
 - Company: AOE Fashion Store (fictional)
 - Time period:from July to November 2024
 - This dataset contains detailed information on the fashion store’s marketing campaigns, including advertising performance metrics, costs, profits, and various factors influencing campaign effectiveness.
--
-This dataset supports seasonal trend analysis, performance evaluation of each advertising channel, and marketing spend optimization.
-
-## Tools used:
-- 
-## Analysis Framework:
+- Key metrics: Clicks, Impression, CTR, CR, ROI, P&L, Ad Spend (Cost)
+- Data dictionary: (attached file)
+## 3. Tools used:
+- Power BI (Power Query, DAX measures, Visuals)
+## 4. Analysis Framework:
 - Part 1: Comprehensive Overview of Advertising Performance
 - Part 2: Analyze the impacts of Promotional Strategies
 - Part 3: Key Insights & Recommendations
-## Report:
+## 5. Report:
 

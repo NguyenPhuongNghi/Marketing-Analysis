@@ -1,5 +1,5 @@
 # Marketing Analysis
-Use Power BI to analyze the effectiveness of advertising campaigns
+Use Power BI to analyze the performances of advertising campaigns
 ## 1. Project Overview:
 The purposes of this project are:
 1. Conducting a data-driven analysis of the past 5 months' marketing performance (seasonal trend analysis, performance evaluation of each advertising channel, and marketing spend optimization).

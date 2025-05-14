@@ -18,4 +18,15 @@ The purposes of this project are:
 - Part 2: Analyze the impacts of Promotional Strategies
 - Part 3: Key Insights & Recommendations
 ## 5. Report:
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-13%20160635.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-13%20160743.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20091413.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20091511.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20091617.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20091733.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20091848.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20091952.png?raw=true)
+![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20092044.png?raw=true)
+
+
 

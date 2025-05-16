@@ -17,7 +17,7 @@ The purposes of this project are:
 - Part 1: Comprehensive Overview of Advertising Performance
 - Part 2: Analyze the impacts of Promotional Strategies
 - Part 3: Key Insights & Recommendations
-## 5. Report:
+## 5. Report: [attached file](https://github.com/NguyenPhuongNghi/Marketing-Analysis/tree/main?tab=readme-ov-file)
 ![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-13%20160635.png?raw=true)
 ![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-13%20160743.png?raw=true)
 ![alt](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/photo/Screenshot%202025-05-14%20091413.png?raw=true)

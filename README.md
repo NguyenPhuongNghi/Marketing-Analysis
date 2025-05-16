@@ -6,11 +6,11 @@ The purposes of this project are:
 2. Identifying key trends, successful campaigns, and areas of inefficiency.
 3. Answering the critical business question: "What should we do to enhance the effectiveness of our marketing strategy?"
 ## 2. Dataset Description:
-- Company: AOE Fashion Store (fictional)
-- Time period:from July to November 2024
+- **Company:** AOE Fashion Store (fictional)
+- **Time period:** from July to November 2024
 - This dataset contains detailed information on the fashion store’s marketing campaigns, including advertising performance metrics, costs, profits, and various factors influencing campaign effectiveness.
-- Key metrics: Clicks, Impression, CTR, CR, ROI, P&L, Ad Spend (Cost)
-- Data dictionary: (attached file)
+- **Key metrics:** Clicks, Impression, CTR, CR, ROI, P&L, Ad Spend (Cost)
+- **Data dictionary:** [attached file](https://github.com/NguyenPhuongNghi/Marketing-Analysis/blob/main/Marketing%20Campaign%20Dataset.pdf)
 ## 3. Tools used:
 - Power BI (Power Query, DAX measures, Visuals)
 ## 4. Analysis Framework:
